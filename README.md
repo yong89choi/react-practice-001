@@ -40,3 +40,15 @@ Chrome 확장 프로그램 (React Developer Tools) 설치가 안되요 ~
 profiling 등 필요
 
 H2 DB?
+
+11번가  MSA Spring Cloud 12 hour
+
+zuul proxy
+
+scope refresh
+
+pre route post filter
+Spring cloud gateway
+
+Webflux flux mono
+https://hyunsoori.tistory.com/3
