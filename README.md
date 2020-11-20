@@ -37,5 +37,6 @@ Sass, classnames, CSS Module, React Icon
 styled-components, polished, ThmeProvider
 
 Chrome 확장 프로그램 (React Developer Tools) 설치가 안되요 ~ 
+profiling 등 필요
 
 H2 DB?
