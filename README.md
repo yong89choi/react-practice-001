@@ -33,7 +33,8 @@ Hooks
 useRef, useState, useEffect, useMemo, useCallBack, useReducer, useContext
 React.memo
 
-Sass, CSS Module, 
+Sass, classnames, CSS Module, React Icon
+styled-components, polished, ThmeProvider
 
 Chrome 확장 프로그램 (React Developer Tools) 설치가 안되요 ~ 
 
