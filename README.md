@@ -1,5 +1,6 @@
-craete-react-app과 같은 CRA를 커스터마이징 할 수 있도록 지원 (전체 지원은 아님)
+Keyword
 
+craete-react-app과 같은 CRA를 커스터마이징 할 수 있도록 지원 (전체 지원은 아님)
 react-app-rewired, customize-cra
 
 es7 decorator
@@ -8,6 +9,8 @@ keycloak
 
 Resilience4j vs Hystrix
 Circuit Breaker
+
+Eureka, Ribbon
 
 open-jdk 8 vs 11
 https://engineering.linecorp.com/ko/blog/line-open-jdk/
